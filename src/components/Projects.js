@@ -13,7 +13,7 @@ const projectData = [
   },
   {
     title: 'BlogSphere',
-    description: 'A full-stack blogging platform with authentication, markdown support, and user dashboards.',
+    description: 'A full-stack blogging platform where users can read blogs and create and update their Blogs.',
     techStack: ['JavaScript', 'Node.js','Express', 'React', 'Bootstrap','MongoDB'],
     images: ['/images/BlogHome.png', '/images/CreateBlog.png', '/images/BlogLogin.png', '/images/BlogSignup.png'],
     github: 'https://github.com/BHUPESHDABAS/BlogSphere-Web-Application',
@@ -29,7 +29,7 @@ const projectData = [
   },
   {
     title: 'Team Chat Application',
-    description: 'Real-time team communication app with group and private chat, built using WebSockets.',
+    description: 'Real-time group communication app with group chat, built using WebSockets.',
     techStack: ['JavaScript', 'Node.js','Express', 'Socket.io',  'HTML', 'CSS'],
     images: ['/images/Chat-Home-Grp.png'],
     github: 'https://github.com/BHUPESHDABAS/Group-Chat-Application',
