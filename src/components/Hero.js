@@ -35,6 +35,7 @@ function Hero() {
                 View Resume
               </Button>
               <Button variant="primary" href="#projects">View Projects</Button>
+              <Button variant="success" href="https://github.com/BHUPESHDABAS">View GitHub</Button>
             </div>
           </Col>
         </Row>

@@ -62,7 +62,7 @@ function Contact() {
         <Row className="justify-content-center mt-4">
           <Col md={8} className="text-center">
             <p className="text-white"> 
-              Or reach me directly at <a href="mailto:bhupeshdabas94@gmail.com">bhupeshdabas94@gmail.com</a> <>|| +91 8375803998</>
+              Or reach me directly at <a href="mailto:bhupeshdabas94@gmail.com">bhupeshdabas94@gmail.com</a>
               
             </p>
           </Col>

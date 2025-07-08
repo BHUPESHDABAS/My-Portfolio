@@ -5,7 +5,7 @@ function CustomNavbar() {
   return (
     <Navbar expand="lg" fixed="top" className="custom-navbar">
       <Container>
-        <Navbar.Brand href="#home" className="fw-bold fs-4 text-info">Bhupesh Dabas</Navbar.Brand>
+        <Navbar.Brand href="#home" className="fw-bold fs-4 text-info">🕸️PORTFOLIO</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto">
