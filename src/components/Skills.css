@@ -1,0 +1,36 @@
+.skills-section {
+  /* background-color: #0d1117; */
+  padding: 60px 0;
+}
+
+.skills-container {
+  background-color: #161b22;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(37, 99, 235, 0.1);
+}
+
+h2.text-center.fw-bold {
+  color: #2563eb;
+  border-bottom: 2px solid #2563eb;
+  display: inline-block;
+  padding-bottom: 6px;
+}
+
+h5.fw-semibold {
+  border-left: 4px solid #facc15;
+  padding-left: 12px;
+  color: #f0f0f0;
+}
+
+.badge.bg-secondary {
+  background-color: #21262d;
+  color: #c9d1d9;
+  border: 1px solid #30363d;
+  margin-bottom: 8px;
+}
+
+.badge.bg-secondary:hover {
+  background-color: #2563eb;
+  color: #fff;
+}

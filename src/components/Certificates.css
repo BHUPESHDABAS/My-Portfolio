@@ -1,0 +1,24 @@
+.certificates-section {
+  /* background-color: #0d1117; */
+  padding: 60px 0;
+}
+
+.certificate-card {
+  background-color: #161b22;
+  border: 1px solid #4f5761;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-radius: 10px;
+}
+
+.certificate-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0 12px rgba(0, 209, 255, 0.2);
+}
+
+.certificate-card .card-title {
+  color: #00d1ff;
+}
+
+.text-light-grey {
+  color: #efeff5;
+}

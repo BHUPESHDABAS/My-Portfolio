@@ -1,0 +1,39 @@
+.custom-navbar {
+  background-color: rgba(13, 17, 23, 0.95) !important;
+  border-bottom: 1px solid #1f2937;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(8px);
+}
+
+.custom-navbar .nav-link {
+  color: #f0f0f0 !important;
+  margin-left: 12px;
+  font-weight: 500;
+  position: relative;
+  transition: color 0.3s ease;
+  text-decoration: none;
+}
+
+.custom-navbar .nav-link:hover {
+  color: #facc15 !important;
+}
+
+.custom-navbar .nav-link::after {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 2px;
+  background-color: #facc15;
+  bottom: -4px;
+  left: 0;
+  transition: width 0.3s ease;
+}
+
+.custom-navbar .nav-link:hover::after {
+  width: 100%;
+}
+
+.neon-text {
+  color: #2563eb !important;
+  font-weight: 600;
+}
