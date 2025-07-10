@@ -14,7 +14,7 @@ function CustomNavbar() {
             <Nav.Link href="#certificates">Certificates</Nav.Link>
             <Nav.Link href="#projects">Projects</Nav.Link>
             <Nav.Link href="#experience">Experience</Nav.Link>
-            <Nav.Link href="https://drive.google.com/file/d/1IaqZdm2kfEZZ79alvrcsPGPpECvl9Qd9/view?usp=sharing">Resume</Nav.Link>
+            <Nav.Link href="https://drive.google.com/file/d/1Ebfyvi4gQ-zVp7MvUQz1lAKMuz14UXAa/view?usp=sharing">Resume</Nav.Link>
             <Nav.Link href="#contact">Contact</Nav.Link>
           </Nav>
         </Navbar.Collapse>
