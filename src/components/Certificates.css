@@ -22,3 +22,7 @@
 .text-light-grey {
   color: #efeff5;
 }
+
+.certificate_view_btn{
+  text-decoration: none;
+}

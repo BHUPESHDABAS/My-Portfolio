@@ -6,6 +6,7 @@ import Skills from './components/Skills';
 import Experience from './components/Experience';
 import Contact from './components/Contact';
 import Certificates from './components/Certificates';
+import Education from './components/Education';
 
 function App() {
   return (
@@ -13,9 +14,10 @@ function App() {
       <CustomNavbar />
       <Hero />
       <Skills />
-      <Certificates/>
       <Projects />
       <Experience />
+      <Education/>
+      <Certificates/>
       <Contact />
     </>
   );

@@ -42,6 +42,7 @@ const Certificates = () => {
                     href={cert.link}
                     target="_blank"
                     rel="noopener noreferrer"
+                    className='certificate_view_btn'
                   >
                     View Certificate
                   </Button>

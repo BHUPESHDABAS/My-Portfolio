@@ -47,3 +47,9 @@ a:hover {
 section {
   transition: all 0.3s ease;
 }
+
+.exp_row{
+  background-color: rgba(0, 0, 0, 0.492);
+  padding: 8px;
+  border-radius: 10px;
+}
