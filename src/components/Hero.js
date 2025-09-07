@@ -28,7 +28,7 @@ function Hero() {
               <Button
                 variant="outline-light"
                 className="me-3"
-                href="https://drive.google.com/file/d/1_Zsu46pDGyrcGwE6kjbQPiS4f0cpylzP/view?usp=sharing"
+                href="https://drive.google.com/file/d/1GdgnxjaVhLOUeNqWo3w0_kxM3itHMCzQ/view?usp=drive_link"
                 target="_blank"
                 rel="noopener noreferrer"
               >

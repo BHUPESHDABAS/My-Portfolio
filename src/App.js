@@ -13,9 +13,9 @@ function App() {
     <>
       <CustomNavbar />
       <Hero />
+      <Experience />
       <Skills />
       <Projects />
-      <Experience />
       <Education/>
       <Certificates/>
       <Contact />

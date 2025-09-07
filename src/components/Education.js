@@ -17,7 +17,7 @@ const experienceData = [
 
 function Education (){
   return (
-    <section className="py-5 " id="education">
+    <section className="py-5 exp_background1" id="education">
       <Container>
         <h2 className="mb-4 text-center fw-bold">Education</h2>
         <Row className='exp_row'>

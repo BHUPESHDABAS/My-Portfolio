@@ -3,6 +3,12 @@ import { Container, Row, Col } from 'react-bootstrap';
 
 const experienceData = [
   {
+    role: 'Full Stack Developer',
+    company: 'DIRO– Internet Original Documents, Inc',
+    duration: 'August 2025 - Present',
+    description: '-  Developing and testing scalable frontend and backend systems while ensuring high performance and reliability.'
+  },
+  {
     role: 'Machine Learning Summer Intern',
     company: 'Delhi Technological University',
     duration: 'June 2024 - July 2024',
@@ -18,7 +24,7 @@ const experienceData = [
 
 function Experience() {
   return (
-    <section className="py-5 " id="experience">
+    <section className="py-5 exp_background" id="experience">
       <Container>
         <h2 className="mb-4 text-center fw-bold">Experience</h2>
         <Row className='exp_row'>
@@ -26,7 +32,7 @@ function Experience() {
             <Col md={12} className="mb-4" key={index}>
               <h5 className="fw-bold">{exp.role} - {exp.company}</h5>
               <p className="mb-1" style={{ color: '#fb6060ff' }}>{exp.duration}</p>
-              <p>{exp.description}</p>
+              
             </Col>
           ))}
         </Row>
