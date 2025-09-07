@@ -20,7 +20,7 @@ function Hero() {
 
             {/* Heading and Content */}
             <h1 className="display-4 fw-bold">Hi, I'm Bhupesh Dabas</h1>
-            <p className="lead">Full Stack Developer (MERN) || Frontend & Backend Engineer</p>
+            <p className="lead">Full Stack Developer || Frontend & Backend Engineer</p>
             <p>I build reliable, scalable, and secure systems with modern web technologies.</p>
 
             {/* Buttons */}
